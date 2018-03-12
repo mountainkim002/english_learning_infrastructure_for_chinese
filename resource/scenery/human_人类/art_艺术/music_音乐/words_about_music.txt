@@ -1,0 +1,44 @@
+
+musician: 音乐家
+	famous musician
+composer: 作曲家（不是提词家）
+singer:歌手
+		famous singer 著名歌手
+		Bill Haley: 比尔·哈利。摇滚之父。代表作：Rock Around the Clock 整日摇。Bum that Candle，See You Later Al-ligator,R-O-C-K,Hot Dog Buddy Buddy,Rudy's Rock,
+		Elvis Presley: 埃尔维斯·普雷斯利。猫王，摇滚歌王。专辑：Teddy Bear,Are You Lonesome Tonight,The Gril Of My Best Friend,Suspicion. 著名歌曲：Heartbreak Hotel，hounddog
+		Michael Jackson：迈克尔·杰克逊。 太空步。 著名歌曲：beat it, billie jean, You're not alone
+		
+performer:表演者/演奏者/歌手/演员
+band:	乐队	
+fan: 迷(可以为歌迷/影迷/戏迷等)
+
+
+
+sing:歌唱
+perform: 演奏
+
+classical music :经典音乐
+soft music:轻音乐
+folk music:民歌
+country music: 乡村音乐
+	country-western music； (暗指美国)西部乡村音乐
+blues: 蓝调音乐
+	blue songs 蓝调歌曲
+jazz: 爵士乐
+rock and roll: 摇滚
+rap: 说唱音乐
+punk: 朋克(无聊音乐)
+
+
+instrument ：仪器，乐器
+	musical instrument 乐器
+
+
+guiltar：吉他
+harmonica：口琴
+piano：钢琴
+violin: 
+
+lyrics: 歌词
+
+dance to the country-western music 随着西部乡村音乐跳起舞来
