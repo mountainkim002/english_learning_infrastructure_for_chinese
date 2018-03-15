@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+---boxing：
+
+fighter： 打架者/拳手
+
+wrestling 摔跤
+sumo 相扑 sumo wrestling 相扑
+sumo wrestler 相扑运动员
+
+
+
+boxing:拳击
+	Thai boxing 泰拳
+boxer: 拳手
+boxing gloves 拳套
+	wear boxing gloves on his hands 把拳套戴在双手上
+
+hit each other 互相击打
+kick with his feet 用脚踢
+hit each other with their elbows and knees 使用肘和膝互相击打
+knock out 击昏，不醒人事
+defeat 击败
+	defeat his enemies/other fighters 击败他的敌人/其他拳手
+	
+final bell rings 终点铃声响起
+a round 一个回合

@@ -1,0 +1,7 @@
+
+measure vt 测量  measurement 测量
+	measure things 测量东西
+	measure cloth 给布量尺寸
+
+the metric system 公制(克，千克，米，千米这些)
+

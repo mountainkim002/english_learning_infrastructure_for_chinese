@@ -3,6 +3,11 @@ invention 发明
 	a wonderful invention 一个了不起的发明
 
 
+sign 迹象，符号，签名
+	
+
+
+
 row 行
 	两排 in two rows
 column 列	
@@ -37,4 +42,6 @@ hook 钩子，拉链钩子
 button: 纽扣
 
 
-	
+umbrella 雨伞
+	keep the rain or the sun off people 为人们遮雨或者遮阳
+	You can fold up the umbrella. 你可以把伞折叠起来

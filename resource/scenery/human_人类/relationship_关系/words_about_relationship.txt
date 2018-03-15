@@ -1,5 +1,43 @@
 
+家庭关系
 
 children: 孩子
 grandchildren:孙子/孙女
 great-grandchildren:曾孙，曾孙女
+
+
+
+朋友关系：
+
+
+
+组织和团体：
+king 国王
+queue 皇后，女王
+prince 王子
+princess 公主
+royal 王国的，王室的，高贵的
+royalty 王族成员，皇室，王位，
+	It's a sign of royalty or importance. 它是王室或者重要人物的标记。
+
+importance 重要， 重要地位，重要人物
+
+government 政府
+	the revolutionary government 革命者政府
+
+
+tribe 部落
+	African tribes 非洲部落
+
+
+
+职位：
+tailor 裁缝，成衣工
+cloth maker 做布的人
+jeweler 珠宝商，宝石匠，钟表匠   jewel 宝石
+carpenter 木匠，木工
+
+
+
+特定场合
+revolutionary 革命者，革新者，革命性的
