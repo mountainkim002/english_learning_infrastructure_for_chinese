@@ -1,11 +1,22 @@
 
 
 
+appearance 外表，不仅可以指人，也可以指物
+	I didn't like the appearance of 100-year-old eggs at all. 我根本不喜欢松花蛋的外表。
+
+
+forearm 前臂
 
 
 
+hair 头发
+	curly hair 卷发
+	straight hair 直发
+	
 
 
+
+---衣物---
 cloth 布
 clothes:衣物
 	comfortable clothes 舒适的衣物
@@ -33,8 +44,11 @@ sandal:凉鞋
 
 uniform:制服
 
+suit 正装
+	a sharp suit 时髦的衣着
 casual clothes: 休闲衣服
 	business-casual clothes 商务休闲衣服
+	casual short-sleeved shirts 休闲短袖衫
 	
 sportwear： 运动服装
 
@@ -44,4 +58,82 @@ strip n.长条，带状地带，  vi. 剥光，表演脱衣舞 剥除， vt.除去，剥去
 	
 	
 stripe n.条纹，vt.使带有条纹
+---衣物 end---
+
+尺寸：
+XS		超小号
+Small 小号
+Medium 中号
+Large 大号
+XL		超大号
+
+
+====头发：理发====
+
+
+hair stylist n.理发造型师
+haircut n.理发, 发型
+	You need a haircut. 你需要理个发了。
+	get/have a haircut 理发
+
+
+cut vt.剪，切开		n. 切口，削减
+trim vt.修建，整理	n. 修剪，整齐  adj.整齐的，整洁的
+	I’d like a trim。我想理个发。
+	have my child's hair trimmed 把我孩子的头发修剪一下
+comb n.梳子 梳棉机  vt.梳理
+	I have a wooden comb. 我有个木梳子
+	Hair stylist is combing her hair. 造型师正在给她梳头发。
+shave vt&vi. 剃胡须，剃毛,  n. 刮脸，剃胡子
+	Do you need a shave? 你要剃胡子（修面）么？
+
+keep some bangs 留点刘海
+
+leave 离开
+	leave home 离开家
+	leave it alone 别管它
 	
+spray vt向...喷洒，给...喷洒 vi.喷洒  n.喷雾器
+	The flower needs to spray regularly. 这个花需要定期喷洒
+	He sprays the plants with insecticide. 他给这个植物喷洒杀虫剂。
+	spray one's hair 给头发喷水
+
+part n. 部分，零件  vi & vt. 分开，分离	
+	part one's hair 把某人头发分开？
+
+even adv.甚至，更加 vt. 使...平坦， 使...相等
+	even if 即使
+	even his hair up 使他的头发长短一致/均匀(不是参吃不齐)/even up ...
+
+brush sb off 为某人把头发屑扫掉		
+	
+
+需要理发	
+她的头发太长了 Her hair is too/really long.
+把头发洗一下 have your head	washed
+需要把(你的)头发洗一下吗 Would you like your hair washed ?
+你想理成什么样？  How do you want it cut?
+
+
+理发造型
+前面理短一点 cut my hair(也可以用it) short in the front
+后面留长一点 leave my hair(也可以用it) long in the back
+比耳朵稍微高一点 leave just a little over my ears
+
+
+理发：
+Hair stylist sprays the customer's hair to wet it, and starts combing it.  发型师给顾客的头发喷上水打湿，然后开始梳理起来。
+How do you usually part your hair? 你平时是头发是怎么分的？
+To the right 向右
+cut one's hair 为某人剪发
+Almost done. I have to even things up a bit. 基本好了。 我还要把头发修整齐一些。
+The hair stylist show the customer the results. 造型师给顾客看看剪的结果。
+Will that do? 这样可以么？
+look good. 看上去不错
+Let me brush you off. 让我把头发屑扫掉
+
+Thank you very much for your coming. 非常感谢你的光临
+
+====头发：理发 end====	
+
+

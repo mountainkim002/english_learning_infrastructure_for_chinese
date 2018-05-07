@@ -3,3 +3,5 @@
 gram 克
 kilo/ kilogram 千克，公斤
 
+
+grain 谷物，谷粒，作为重量 格令。 1格令=0.065克

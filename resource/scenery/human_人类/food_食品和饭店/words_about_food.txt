@@ -1,6 +1,191 @@
 
 
+食品：
+eggs 鸡蛋，卵
+	100-year-old egg 松花蛋，皮蛋
 
+cheese 奶酪
+dairy 牛奶厂，乳品店，牛奶和乳品业
+	dairy products 奶制品
+
+
+
+meat 肉， 包含各种肉（猪肉，牛肉等）	
+chicken n.鸡肉，n.小鸡
+	roast chicken 烤鸡，类似于烤鸡翅等
+	
+beef n. 牛肉， n.牛  n. 体力，怨言，牢骚 vi. 抱怨，大发牢骚
+
+flake n.小薄片,  vt.把...(鱼/食物)切成薄片，   vi. (成薄片)脱落，剥落
+meatball 肉丸
+	
+
+
+
+主食
+rice 米饭
+corn 玉米
+	a side order of corn 搭配玉米作为副餐
+bread 面包
+hamburger 汉堡包
+cheeseburger 奶酪汉堡
+
+
+spaghetti 面条，意大利面条	
+
+
+调味品
+mustard 芥末
+
+
+酱类
+salad 沙拉（一般是蔬菜沙拉，凉拌，上面加上浇头，当蔬菜吃，）
+	garden salad 田园色拉
+dressing 浇头
+sauce 酱汁，调味汁
+	barbecue sauce 烧烤酱
+	
+
+
+
+汤和饮料：
+milk 牛奶
+soup 汤
+	tomato soup 西红柿汤
+	the soup of the day 今天供应的汤
+juice 果汁
+tea 茶
+	green tea 绿茶
+	black tea 红茶
+	iced tea 冰茶
+	
+coffee 咖啡
+	coffee beans 咖啡豆
+		
+soft drink 软饮料 --比如可口可乐	
+cola 可乐
+	a medium cola 一个中份可乐
+beer 啤酒
+wine 酒
+	red grape wine 红葡萄酒
+	
+
+甜点：
+dessert 甜点
+pie 派，饼
+	apple pie 苹果饼
+	blueberry pie 蓝莓pie
+	
+ice cream 冰淇淋
+
+
+菜肴做法：
+mash 糊状（比如土豆做成土豆泥）
+French fry 土豆条
+
+bake vt. 烤，烘焙（烤箱） 一般用于主食或者蔬菜
+roast vt&vi 烤，烘（类似于中国的煎，也有隔空悬挂烤的意思），  n. 烤肉   a. 烤好的，烤制的
+grill vt&vi 烧烤（在烧烤架上或者铁板上直接烧烤），n. 烤架，烤肉
+pickle vt.腌制 n. 腌菜，泡菜，腌制食品
+
+
+动词：
+order vt.订购，n.订单
+	order a meal 订一顿饭
+	Could I take your order, Sir? 先生，请问订点什么？	
+
+try new foods 尝试新食物
+	try the blueberry pie 尝试蓝莓pie
+specialize in sth/doing sht 专门做某事
+	This is a restaurant that specialized in fish. 这是一家专做鱼的饭店。
+
+
+enjoy 享受
+	enjoy flake 享受薄鱼片
+
+
+
+饭店和就餐：
+restaurant 饭店
+
+menu 菜单
+meal 一段饭，一顿餐
+dish 一盘菜
+main course 主餐
+side order 主餐之外的另点一个小菜
+appetizer 开胃菜
+
+bite n. 可吃的食物（可数）--口语化
+	He rush in for a quick bite to eat last night. 昨晚他冲进来匆忙吃了一口。
+	grab a bite to eat 随便吃了一点
 
 
 eat meals 吃饭
+eat out 外出吃饭
+eat inside 在家吃饭
+
+
+
+吃饭场景：
+counter n. 柜台
+
+waiter n.服务员
+Attendant n. 服务人员，侍者，随从
+
+customer： n.顾客，客户
+patron n. 顾客，老主顾， 赞助人，资助人
+host n.	（餐馆）领台人员
+
+
+选桌
+booth n. 公共电话亭 n. 摊位， n.隔开的小间，(餐厅中）有矮墙分割的座位
+
+May I help you，Sir? 先生，我能帮忙么？
+How about this table? 这张桌可以么？
+Is this table all right? 这张桌可以么？
+Table for one/two/three? 一个人/二个人/三个人的么?
+
+by the window/by the aisle 靠近窗户/靠近通道
+	I like the seat by the window. 我喜欢靠窗户的座位
+
+For here or to go? 在这吃还是带走？ To go，please 带走。
+	
+	
+点菜：
+take your order 点菜--主语是waiter，不是顾客
+	May I take your order, Sir? 先生，你点菜吗？
+	
+先生，我是您的服务员今晚 I'll be your waiter this evening, Sir.
+你是否再需要些时间呢 Do you need a few more minutes?
+我想要.... I'd like to have .../I'd like ...
+		I'd like a steak, well done, and a side order of corn. And a garden salad.
+		I'd like the roast chicken.
+		I'd like a glass of tea.
+before your meal 饭前--比如饭前是否来个开胃菜？
+你想喝点什么么？ Do you have anything to drink?
+你喜欢咖啡还是茶？ Do you prefer coffee or tea?
+你吃什么点心？ Can I get you any dessert?
+你还想要点什么么? Would you like anything else?
+就这些了吗？ Will that be all?
+我很快会把烤鸡和玉米带过来。 I'll be back in a minute with your roast chicken and corn.
+pass on 不要什么
+	 I'll pass on the soup. 我不要汤
+
+
+
+吃完
+finish one's meal 吃完饭
+take one's plate 收走盘子
+我吃饱了 I'm stuffed
+我想买单 I'm ready for the bill/check.
+我能替你付账单么？ May I pay the bill for you?
+这是你的找钱。 Here is your change.
+给你 Here you you
+
+
+
+
+形容词：
+delicious 美味可口的
+
+		

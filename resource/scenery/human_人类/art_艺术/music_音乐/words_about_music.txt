@@ -1,4 +1,4 @@
-
+人员：
 musician: 音乐家
 	famous musician
 composer: 作曲家（不是提词家）
@@ -13,10 +13,12 @@ band:	乐队
 fan: 迷(可以为歌迷/影迷/戏迷等)
 
 
-
+动作：
 sing:歌唱
 perform: 演奏
 
+
+音乐类型：
 classical music :经典音乐
 soft music:轻音乐
 folk music:民歌
@@ -30,6 +32,12 @@ rap: 说唱音乐
 punk: 朋克(无聊音乐)
 
 
+
+材质：
+CD 
+
+
+乐器：
 instrument ：仪器，乐器
 	musical instrument 乐器
 
@@ -42,3 +50,9 @@ violin:
 lyrics: 歌词
 
 dance to the country-western music 随着西部乡村音乐跳起舞来
+
+
+
+album 相册，唱片
+	new album 新的唱片专辑
+

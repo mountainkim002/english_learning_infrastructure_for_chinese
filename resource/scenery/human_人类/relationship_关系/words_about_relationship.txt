@@ -5,6 +5,7 @@ children: 孩子
 grandchildren:孙子/孙女
 great-grandchildren:曾孙，曾孙女
 
+teens 年轻人 =teenager
 
 
 朋友关系：
@@ -41,3 +42,11 @@ carpenter 木匠，木工
 
 特定场合
 revolutionary 革命者，革新者，革命性的
+
+
+be familiar to sb 对某人熟悉
+	The event is not familiar to Mr Wang. 对于王先生并不熟悉这个事情。
+be familiar with sb 和某人熟悉
+	He's familiar with the dentist. 他和那个牙医熟悉。
+unfamiliar 不熟悉的
+	unfamiliar food 不熟悉的食物
