@@ -1,0 +1,27 @@
+
+
+health
+	healthy
+
+
+
+illness
+	overcome illness 克服疾病
+
+
+	
+
+具体疾病：
+左腿不能动了 lose the use of her left leg 	
+
+
+	
+polio 脊髓灰质炎	==poliomyelitis
+
+
+治疗
+treatment 治疗
+	get treatment for her leg 为她的腿进行治疗
+	
+massage 按摩，推拿
+	a daily massage 每日一次的推拿按摩	

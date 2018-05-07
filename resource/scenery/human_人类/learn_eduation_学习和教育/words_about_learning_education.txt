@@ -1,10 +1,8 @@
 
 
 
-
-
-
-
+graduate 毕业生，研究生
+graduate school 研究生学校
 
 
 
@@ -30,5 +28,20 @@ a fountain pen: 一只自来水笔(自带墨水的笔--是现代的笔)
 	 a fountain pen can hold ink inside the fountain. 一个自来水笔能把墨存放在墨槽里。
 ballpoint pen： 圆珠笔
 
+
 中国系列笔：
 chinese brush/writing brush （中国）毛笔
+
+
+
+教科书 textbook
+	english textbook 英文教科书
+故事书 storybook	
+	
+dictionary 字典
+
+
+reading skills 阅读技巧
+	improve students' reading skills 提高学生的阅读技巧 
+
+conversation practice 对话练习	

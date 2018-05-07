@@ -1,20 +1,162 @@
 
+Game 游戏，比赛，运动，竞赛 --带有一些游戏/休闲成分的比赛
+	the game is playing 比赛/游戏正在进行
+	the England-ireland game 英国对爱尔兰比赛
+	computer games 计算机游戏
+
+Olympic Games 奥林匹克运动 =olympics
+tournament 锦标赛，联赛
+	 the quarter-finals of the tournament 锦标赛的四分之一决赛
+
+match 比赛， 指的整个比赛
+	watch a football match 观看一场足球比赛
+	the match was lost 比赛输了
+	
+race 赛跑，竞争， 更强调比赛中的竞赛成分
+	women's race 女子赛跑
+	race riding 赛马
+	fail in a state governor's race 在一场州长竞选中失败
+	
+
+sport 运动，运动类别大项(比如，举重， 游泳，击剑，摔跤，田径等)
+	nine sports 九个运动大项
+
+decipline: 运动类别分项：比如游泳有竞技游泳，花样游泳，水球，跳水，公开水域游泳5个分项。注意不是每个大项都有小项，比如田径就没有分项。从分项来看应该是比赛的性质不太相同，所以划分了分项
+	
+event 运动项目小项--比如男子100米、男子200米、男子400米，女子100米，女子200米，...，接力，跨栏，跳高，跳远，三级跳，撑杆跳，铅球，铁饼，链球，标枪，七项全能，马拉松
+	43 events 43个运动项目
+
+strong 强的
+high 高的
+fast 快的
+
+athelete 运动员
+friend 朋友
+oppose 反对，抗争
+	opponent 对手，不是敌人enemy(仇敌)，有立场不同的对手
+rival 对手，竞争者，含有竞争对手的意思，有一定的敌对性
+
+gold medal 金牌
+silver medal 银牌
+bronze medal 铜牌
+
+winner 胜利者
+loser 失败者
+
+a track star 跑步明星
+a track coach 跑步教练
+
+
+win 胜利，获胜
+	win three gold medals 赢得3块金牌
+	win two gold medals and two silver medals 赢得2块金牌2块银牌
+lose 失去，错过
+	lose the first place 失去第一的位置
+
+in the second place 第二名
+in the fourth place 第四名
+
+
+participate in 参加
+	participate in a game match 参加一个游戏比赛
+	
+compete 竞争，竞赛
+	compete in track and field events 在田径比赛中竞争 (用in + 项目表示在什么项目里竞争)
+contest vt.竞争，为...而奋斗，辩驳  n. 竞争，竞赛(competition)
+	be contests in sth 和...竞争 
 
 
 
+具体的运动项目：一般一共28个大项在奥林匹克运动会上
+--track and field: 径赛和田赛 (田径) --athletics 田径比赛
+runner 跑步者，跑步选手
+
+
+--swimming：游泳
+swimmer 游泳者
+
+--swimming backstroke 仰泳
+--swimming breaststroke 蛙泳
+--swimming freestyle 自由泳
+--butterfly medleys swimming 蝶泳混合泳
+--synchronized swimming 花样游泳
+--diving 跳水
+--water polo 水球
+
+
+--rowing：赛艇运动
+
+--sailing： 帆船运动
+
+canoe：独木舟
+--flatwater 皮划艇静水比赛
+---kayak：皮划艇激流回旋比赛
+kayaker 皮艇桨手
+
+
+--gymnastics：体操
+
+--cycling：自行车
 
 
 
+--basketball：篮球
+
+--volleyball: 排球
+
+--soccer/football: 足球/橄榄球
+
+--baseball： 垒球
+
+--hockey: 曲棍球
+
+--handball: 手球
+
+--badminton: 羽毛球
+
+--table tennis: 乒乓球
+
+--tennis： 网球
+
+--weighlifting: 举重
+
+--fencing： 击剑
+
+--archery： 箭术
+ITA(international Archery Federation)国际箭联
+
+archery 箭术
+bow 弓
+	compound bow 复合弓
+	recurve bow 反曲弓
+	long bow	长弓
+	bow weight 弓的重量
+
+sight vt.瞄准，n.瞄准器
+	multi-aim sight 多准星瞄准器
+
+release n.释放，释放装置，在这有放箭器的意思。
+	
+shoot 射箭
+	you can shoot with release or with fingers. 可以使用放箭器或者手指射出去。
+
+arrow 箭
+	arrow rest 箭托，箭座，箭台--用于支撑住箭
+rest n.休息，依靠，依托，支架
+
+placement 安置，放置，定位点	
+stabilizer：n. 安定装置，在这有稳定杆的意思
+
+screw n.螺丝 vt. 螺旋进去
+
+
+--shooting: 射击
 
 
 
----boxing：
+---boxing：拳击
 
 fighter： 打架者/拳手
-
-wrestling 摔跤
-sumo 相扑 sumo wrestling 相扑
-sumo wrestler 相扑运动员
 
 
 
@@ -30,6 +172,44 @@ hit each other with their elbows and knees 使用肘和膝互相击打
 knock out 击昏，不醒人事
 defeat 击败
 	defeat his enemies/other fighters 击败他的敌人/其他拳手
-	
+
+rules of Boxing:	
 final bell rings 终点铃声响起
 a round 一个回合
+ring 拳击场
+	in a round ring 在一个圆形的拳击场中，环形物
+	leave the ring 离开拳击场
+
+
+---wrestling 摔跤
+sumo 相扑 sumo wrestling 相扑
+sumo wrestler 相扑运动员
+
+
+step aside 走到一边，让开
+
+rules of Wrestling:
+in a sand floor 在沙地中
+touch the floor 触地
+push the opponent down on the floor or out of the ring 把对手推倒在地或者推出拳击场
+
+---taekwondo： 跆拳道
+
+
+---judo： 柔道
+black belt: 黑带
+
+
+---equestrian event 马术比赛
+equestrian 骑马的，骑手，骑马者
+Equestrianism：马术
+horse racing 赛马 
+
+
+
+---pentathlon：现代五项: 马术(equestrianism)，击剑(fencing)，游泳(swimming)，射击(shooting)，越野(cross-country)
+
+
+---Artistic：艺术
+
+---chess： 棋，棋类
