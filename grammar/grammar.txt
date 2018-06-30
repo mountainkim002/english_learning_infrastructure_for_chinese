@@ -1,4 +1,5 @@
-english grammer
+english grammer： 
+  英语语法的基本结构在method中有介绍，请先看其中的“英语语法简介”章节。
 
 
 
